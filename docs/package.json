@@ -19,6 +19,9 @@
   "license": "MIT",
   "main": "index.js",
   "name": "fairwinds-docs-template",
+  "overrides": {
+    "braces": ">=3.0.3"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FairwindsOps/insights-docs.git"
