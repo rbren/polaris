@@ -32,5 +32,8 @@
     "serve": "npm run build:readme && vuepress dev --port 3003",
     "vuepress": "vuepress"
   },
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "overrides": {
+    "braces": ">=3.0.3"
+  }
 }
