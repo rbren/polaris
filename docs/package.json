@@ -4,7 +4,7 @@
     "url": "https://github.com/FairwindsOps/insights-docs/issues"
   },
   "dependencies": {
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "vuepress-plugin-check-md": "0.0.2"
   },
   "description": "A repository with a Vuepress template for Fairwinds projects",
